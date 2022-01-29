@@ -14,6 +14,7 @@ function App() {
       <Balance />
       <IncomeExpenses />
       <TransactionList />
+      <h1>gggg</h1>
       <AddTransaction />
       </div>
     </GloblaProvider>
